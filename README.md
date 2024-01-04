@@ -1,71 +1,41 @@
-# Getting Started with Create React App
+<h1 align="center">
+  Calculadora de Eficiência de Combustível: Etanol e Gasolina
+</h1>
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+<div align="center">
+  <img src="./public/app-calculo-eficiencia-combustivel.png" width="100%" />
+</div>
 
-## Available Scripts
+## Projeto - Calculadora de Eficiência de Combustível: Etanol e Gasolina
 
-In the project directory, you can run:
+Este projeto oferece aos usuários uma calculadora de eficiência de combustível, ajudando a escolher entre gasolina e etanol com base nos preços, consumo e distância a percorrer. Com um design atraente e responsivo, é funcional em vários dispositivos.
 
-### `npm start`
+Tecnologias Utilizadas:
+* [HTML (Linguagem de marcação):](https://www.w3schools.com/html/html_intro.asp) Utilizado para estruturar e definir o conteúdo da página, incluindo cabeçalhos, parágrafos, listas e imagens.
+* [CSS (Folha de estilos em cascata):](https://www.w3schools.com/css/css_intro.asp) Utilizado para estilizar os elementos da página, definindo cores, tamanhos, fontes e layout, proporcionando uma aparência visualmente atraente.
+* [JavaScript:](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript) Utilizado para adicionar interatividade à página, permitindo que o usuário selecione personagens e exiba informações dinamicamente.
+* [React:](https://react.dev/) Utilizado para construir interfaces de usuário interativas e dinâmicas em aplicações web.
+* [TinyJPG](https://tinyjpg.com/) e [TinyPNG:](https://tinypng.com/) O site utilizado é uma ferramenta online que comprime imagens JPEG e PNG sem perder muita qualidade. Ele reduz o tamanho dos arquivos de imagem usando algoritmos eficientes de compressão.
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+Créditos:
+* Criado por minha autoria | [José Carlos • jcddsj01](https://github.com/jcddsj01)
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+Implantação do Projeto no Vercel: [Explore o projeto clicando aqui.]()
 
-### `npm test`
+---
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+## Project - Fuel Efficiency Calculator: Ethanol and Gasoline
 
-### `npm run build`
+This project offers users a fuel efficiency calculator, helping them to choose between gasoline and ethanol based on prices, consumption and distance traveled. With an attractive and responsive design, it is functional on multiple devices.
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+Technologies used: 
+* [HTML (Linguagem de marcação):](https://www.w3schools.com/html/html_intro.asp) Used to structure and define the content of the page, including headings, paragraphs, lists and images.
+* [CSS (Folha de estilos em cascata):](https://www.w3schools.com/css/css_intro.asp) Used to style the elements of the page, defining colors, sizes, fonts and layout, providing a visually appealing appearance.
+* [JavaScript:](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript) Used to add interactivity to the page, allowing the user to select characters and display information dynamically.
+* [React:](https://react.dev/) Used to build interactive and dynamic user interfaces in web applications.
+* [TinyJPG](https://tinyjpg.com/) and [TinyPNG:](https://tinypng.com/) The website used is an online tool that compresses JPEG and PNG images without losing too much quality. It reduces 
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+Credits:
+* Created by me | [José Carlos • jcddsj01](https://github.com/jcddsj01)
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
-# app-calculo-eficiencia-combustivel
+Project deployment on Vercel: [Explore the project by clicking here.]()
